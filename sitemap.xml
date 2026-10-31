@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://momun-create.github.io/mysite/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://momun-creator.github.io/mysite/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://momun-create.github.io/mysite/</loc>
+<loc>https://momun-creator.github.io/mysite/</loc>
 </url>
 <url>
-<loc>https://momun-create.github.io/mysite/eo-annyeonghaseyo/</loc>
+<loc>https://momun-creator.github.io/mysite/eo-annyeonghaseyo/</loc>
 <lastmod>2026-10-31T13:00:58+09:00</lastmod>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/KakaoTalk_20260804_140545746.png</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/KakaoTalk_20260804_140545746.png</image:loc>
 <image:title><![CDATA[내 프사 간지나쥬?]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/gallery/muje1418-1-thumbnail.png</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/gallery/muje1418-1-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/gallery/Screenshot_20260820_165628_Opera-1-thumbnail.jpg</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/gallery/Screenshot_20260820_165628_Opera-1-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/gallery/Screenshot_20260820_165555_Google-thumbnail.jpg</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/gallery/Screenshot_20260820_165555_Google-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/gallery/muje1291-thumbnail.png</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/gallery/muje1291-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/gallery/muje1372_20260627120643-thumbnail.png</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/gallery/muje1372_20260627120643-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://momun-create.github.io/mysite/media/posts/1/gallery/muje1240-thumbnail.png</image:loc>
+<image:loc>https://momun-creator.github.io/mysite/media/posts/1/gallery/muje1240-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
